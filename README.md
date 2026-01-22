@@ -1,2 +1,2 @@
-# rust-playground
+# rust-experiments
 experiments with Rust
